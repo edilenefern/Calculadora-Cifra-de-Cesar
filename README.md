@@ -1,26 +1,15 @@
 # Calculadora de Cifra César
 
-Uma calculadora para cifrar e decifrar palavras
 
 # Prefácio
 1.Introdução
 2.Desenvolvimento
-3.Aplicação(como funciona)
-4.Tecnologia
+3.Tecnologia
 
 
 # Introdução
 
-#Definição de Usuário
-
-A definição do usuário foi feita pensando em uma aplicação web, onde o usuário 
-podesse fazer cifragem e decifragem de palavras
-
-* Quem são os principais usuário do produto?
- Qualquer pessoa que possa acessar a página web.
-
-* Quais são os objetivos do usuário em relação com o produto?
-Cifrar e Decifrar palavras de uma maneira simples.
+O imperador romano Júlio César cifrava palavras para enviar ordens secretas aos seus generais no campo de batalha, você pode ver como era feita essa criptografia com a Calculadora Cifra de César e usar sua criatividade para criar senhas de emails,mensagens secretas, etc.
 
 # 2.Desenvolvimento
 ### Interface do usuário (UI)
@@ -37,17 +26,13 @@ A interface deve permitir ao usuário:
 <img src="./src/images/calculadora-cifra-cesar.png"/> 
 
 
-# 3.Aplicação(como funciona)
 
-* Como você acredita que o produto está resolvendo os problemas do usuário?
 
-Na internet existem muitas informações sobre a cifra de César.A idéia é o que o usuário posso acessar o site e de uma maneira simples fazer uso dessa criptrografia.
-
-# 4.Tecnologias
+# 3. Tecnologias
 
 Para desenvolvimento do projeto foram utilizadas:
 
-##.HTML-Hypertext Markup Language
-##.JavaScript
-##.Css
+* HTML-Hypertext Markup Language
+* JavaScript
+* Css
 
