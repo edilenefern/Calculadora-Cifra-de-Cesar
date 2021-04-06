@@ -25,7 +25,7 @@ A interface  permite ao usuário:
 * Mostra o resultado da mensagem decifrada.
 
 
-![](./src/calculadora-cifra-cesar.gif)
+![](src/Cifra-Cesar.gif)
 
 
 
