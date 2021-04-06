@@ -29,7 +29,7 @@ A interface  permite ao usuário:
 
 # 3. Tecnologias
 
-Para desenvolvimento do projeto foram utilizadas:
+Para desenvolvimento do projeto foram utilizados:
 
 * HTML
 * JavaScript
