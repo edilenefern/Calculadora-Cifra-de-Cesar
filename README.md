@@ -24,7 +24,7 @@ A interface  permite ao usuário:
 * Insere uma mensagem (texto) para ser decifrada.
 * Mostra o resultado da mensagem decifrada.
 
-![](.src/calculadora-cifra-cesar.png)
+![](src/calculadora-cifra-cesar.png)
 
 
 # 3. Tecnologias
